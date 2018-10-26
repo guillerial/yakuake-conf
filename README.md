@@ -2,7 +2,7 @@
 My personal yakuake conf
 
 ## Profile Theme:
-Dark Pastels
+Dark Pastels - 20% Transparency
 
 ## Skin:
 Breeze: https://store.kde.org/p/1106242/
